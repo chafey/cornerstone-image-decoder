@@ -1,0 +1,27 @@
+{
+  "name": "cornerstone-image-decoder",
+  "version": "0.1.0",
+  "description": "Cornerstone image decoders for DICOM images",
+  "main" : "dist/cornerstone-image-decoder.js",
+  "ignore": [
+    "examples",
+    "src",
+    "test",
+    "gruntfile.js",
+    "package.json",
+    "README.md",
+    ".gitignore"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "authors" : ["Chris Hafey"],
+  "homepage": "https://github.com/chafey/cornerstone-image-decoder",
+  "keywords": ["DICOM", "medical", "imaging", "cornerstone"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chafey/cornerstone-image-decoder.git"
+  }
+}
